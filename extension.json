@@ -1,0 +1,7 @@
+{
+  "name": "Laravel Blade",
+  "version": "0.0.1",
+  "authors": ["Bruno Bernard <contact.brunobernard@gmail.com>"],
+  "description": "Syntax Highlighting for Laravel Blade",
+  "repository": "https://github.com/eznix86/laravel-blade.zed"
+}

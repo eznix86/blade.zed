@@ -1,0 +1,4 @@
+name = "Laravel Blade"
+grammar = "blade"
+path_suffixes = ["blade.php", "blade"]
+line_comments = ["{{--", "--}}"]
